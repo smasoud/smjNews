@@ -1,5 +1,9 @@
 .idea/
+
 venv/
+
 db.sqlite3
 
-homePage/migrations/
+news/migrations/
+
+files/
